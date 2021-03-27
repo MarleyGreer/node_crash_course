@@ -1,0 +1,19 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "Practasing Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "author": "Marley Greer",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
